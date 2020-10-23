@@ -1,7 +1,7 @@
 
 # Hello, geeks! 👋
 
-I am Sushanth Shetty. I consider myself as a smart worker and determined team player. I am having an lilttle bit experience in developing but my main intrest is in Data Analytical field
+I am Sushanth Shetty. I consider myself as a smart worker and determined team player. I am having an lilttle bit of experience as a Full Stack developer but my main intrest is in Data Analytical field
 
 ### 🌱 What do I do?
 - ✔️Along with it, I have strong media and communication professional with a Bachelor of Technology focused in Computer Science from, Mumbai.
